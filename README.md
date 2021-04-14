@@ -22,6 +22,7 @@ Sorry, we completed all the challeneges but we appear to be missing some screens
 ![Screen Shot 2021-04-13 at 2 47 55 PM](https://user-images.githubusercontent.com/79432992/114626355-73e74400-9c68-11eb-9414-5dd940846df7.png)
 ![Screen Shot 2021-04-13 at 2 49 00 PM](https://user-images.githubusercontent.com/79432992/114626364-76499e00-9c68-11eb-84b6-8d6d085e8866.png)
 ### 10. Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations.
+![image](https://user-images.githubusercontent.com/48627943/114738247-caf72280-9d15-11eb-9ad5-b6ad5b488c51.png)
 ![image](https://user-images.githubusercontent.com/48627943/114728593-3983b280-9d0d-11eb-9f91-5cbf5838e7f3.png)
 ### 11. All airlines that fly to New Zealand.
 ![image](https://user-images.githubusercontent.com/48627943/114728242-ed387280-9d0c-11eb-9662-7a5a7f2538a9.png)
